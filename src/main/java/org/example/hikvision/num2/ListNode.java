@@ -1,9 +1,10 @@
-package org.example.haikangweishi.num2;
+package org.example.hikvision.num2;
 
 public class ListNode {
-   int val;
+    int val;
     ListNode next = null;
+
     public ListNode(int val) {
-      this.val = val;
+        this.val = val;
     }
 }
