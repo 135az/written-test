@@ -5,10 +5,15 @@
 ## 目录结构
 
 ```aiignore
-src/main/java/org/example/
-├── didi               // 滴滴
-├── hikvision          // 海康威视
-├── youkushengshi      // 游酷盛世
-└── zhongan            // 众安
+src/main/java/org
+├── exam
+    ├── didi               // 滴滴
+    ├── haixin             // 海信
+    ├── hikvision          // 海康威视
+    ├── meituan            // 美团
+    ├── youkushengshi      // 游酷盛世
+    └── zhongan            // 众安
+├── keypoints
+    ├── mvcc               
 ```
 
