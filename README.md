@@ -11,6 +11,7 @@ src/main/java/org
     ├── haixin             // 海信
     ├── hikvision          // 海康威视
     ├── meituan            // 美团
+    ├── shopee             // 虾皮
     ├── youkushengshi      // 游酷盛世
     └── zhongan            // 众安              
 ```
