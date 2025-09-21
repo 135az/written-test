@@ -12,6 +12,7 @@ src/main/java/org
     ├── hikvision          // 海康威视
     ├── meituan            // 美团
     ├── shopee             // 虾皮
+    ├── xiaohongshu        // 小红书
     ├── youkushengshi      // 游酷盛世
     └── zhongan            // 众安              
 ```
