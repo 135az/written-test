@@ -10,6 +10,7 @@ src/main/java/org
     ├── didi               // 滴滴
     ├── haixin             // 海信
     ├── hikvision          // 海康威视
+    ├── jitu               // 极兔
     ├── meituan            // 美团
     ├── shopee             // 虾皮
     ├── xiaohongshu        // 小红书
